@@ -1,5 +1,5 @@
 require("dotenv").config();
-//NPM package for reading and writing files
+//NPM packages for reading and writing files
 var fs = require('fs'),
     keys = require("./keys.js"),
     twitter = require('twitter'),
