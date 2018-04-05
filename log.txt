@@ -85,6 +85,12 @@ Fri Dec 22 16:57:55 +0000 2017
 Come see what Green Country Cinemas has in store for you this holiday season! Learn more on website in bio! #movies… https://t.co/NFhzPWUANU
 
 Appending this song and artist data: 
+Artist: Backstreet Boys
+Song Name: Quit Playing Games (With My Heart)
+Link to Spotify: https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S
+Album: Backstreet Boys
+
+Appending this song and artist data: 
 Artist: Coolio
 Song Name: Gangsta's Paradise
 Link to Spotify: https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g
@@ -95,12 +101,6 @@ Artist: Whitney Houston
 Song Name: I Will Always Love You
 Link to Spotify: https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96
 Album: The Bodyguard - Original Soundtrack Album
-
-Appending this song and artist data: 
-Artist: AC/DC
-Song Name: Highway to Hell
-Link to Spotify: https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS
-Album: Highway to Hell
 
 Appending this movie information: 
 The title of this movie is: Mr. Nobody
@@ -121,16 +121,6 @@ The Country of this movie is: USA, UK
 The Language of this movie is: English, Spanish
 The Plot of this movie is: In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.
 The Actors in this movie are: Denzel Washington, Dakota Fanning, Radha Mitchell, Christopher Walken
-
-Appending this movie information: 
-The title of this movie is: Hell or High Water
-The year this movie was released is: 2016
-The IMDB rating of this movie is: 7.6
-The Rotten Tomatoes rating of this movie is: undefined
-The Country of this movie is: USA
-The Language of this movie is: English
-The Plot of this movie is: A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.
-The Actors in this movie are: Dale Dickey, Ben Foster, Chris Pine, William Sterchi
 
 User picked random file.
 Appending this song and artist data: 
