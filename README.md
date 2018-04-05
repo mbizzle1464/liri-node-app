@@ -16,10 +16,12 @@ This command does not take any parameters.  You simply need to type in node liri
 
 ##### Spotify This Song 
 This command does require another parameter.  You simply need to type in node liri.js spotify-this-song [insert song title] into the command line and you will receive back:
+
 * Song Title
 * Artist
 * External Link to Song's Spotify URL
 * Album
+#####
 If you decline to provide any additional parameter, you will receive Gangsta's Paradise by Coolio. 
 
 ##### Movie This 
@@ -32,6 +34,7 @@ This command does require another parameter.  You simply need to type in node li
 * Language of the movie.
 * Plot of the movie.
 * Actors in the movie.
+#####
 If you decline to provide any additional parameter, you will receive Mr. Nobody in return. 
 
 ##### Do What It Says
