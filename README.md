@@ -3,7 +3,7 @@
 ####
 LIRI is a Language Interpretation and Recognition Interface.  
 
-### How to Use 
+### How to Works
 LIRI is a command line node app that takes four commands: 
 
 * my-tweets
