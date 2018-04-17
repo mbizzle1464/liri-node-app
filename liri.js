@@ -45,7 +45,7 @@ var spotifyThis = function() {
     var spotify = new Spotify(keys.spotify);
     spotify.search({
         type: "track",
-        query: userInput,
+        query: "Backstreet Boys",
         limit: 1}, function(error, data){
             if (error) {
                 return console.log(error);  
